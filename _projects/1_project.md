@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Othello
+description: a fun board game
+img: assets/img/othello.jpg
 importance: 1
 category: work
 related_publications: true
